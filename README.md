@@ -14,7 +14,7 @@ This project is a javascript application that displays the climate data of the c
 
 <br>
 
-## 🛠 Tecnologias  
+## 🛠 Tecnologies 
 ✔️HTML
 
 ✔️CSS
